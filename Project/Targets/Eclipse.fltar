@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="EclipseHelp"
+  Destinations=""
+  GlossaryTermConversion="marked">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <MetaTags
+    Enabled="true">
+    <meta
+      http-equiv="X-UA-Compatible"
+      content="IE=edge" />
+  </MetaTags>
+</CatapultTarget>
